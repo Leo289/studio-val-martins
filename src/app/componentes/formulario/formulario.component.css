@@ -1,0 +1,50 @@
+/* formulario.component.css */
+
+.appformulariocss {
+  padding-top: 1%;
+  padding-bottom: 1.5%;
+  background-color: #696968;
+  text-align: center;
+}
+
+#alteracormsg {
+  color: antiquewhite !important;
+}
+
+.container {
+  padding: 0.8%;
+}
+
+/* form {} */
+  /* Pode inserir quaisquer regras CSS para o formulário aqui */
+
+
+input {
+  width: 20vw;
+  max-width: 350px;
+  height: 40px;
+  border-radius: 8px;
+  color: black;
+  padding-left: 0.4%;
+}
+
+@media screen and (min-height:330px) and (max-height:800px) {
+  .appformulariocss {
+    padding-bottom: 2.5%;
+  }
+}
+
+input {
+  width: 40vw;
+}
+
+h4 {
+  color: blanchedalmond;
+  font-weight: 800;
+  font-size: 1.4em;
+  font-family: 'Nerko One', cursive;
+}
+
+button[disabled] {
+  background-color: grey;
+}
