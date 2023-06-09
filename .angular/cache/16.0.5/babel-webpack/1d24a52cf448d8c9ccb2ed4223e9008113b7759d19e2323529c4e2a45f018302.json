@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from '@firebase/performance';","map":{"version":3,"names":[],"sources":["C:/Users/55219/Desktop/Studio-Val-em-conclusao/node_modules/firebase/performance/dist/esm/index.esm.js"],"sourcesContent":["export * from '@firebase/performance';\n"],"mappings":"AAAA,cAAc,uBAAuB"},"metadata":{},"sourceType":"module","externalDependencies":[]}
