@@ -1,1 +1,0 @@
-{"ast":null,"code":"export * from '@firebase/database';","map":{"version":3,"names":[],"sources":["C:/Users/55219/Desktop/Studio-Val-em-conclusao/node_modules/firebase/database/dist/esm/index.esm.js"],"sourcesContent":["export * from '@firebase/database';\n"],"mappings":"AAAA,cAAc,oBAAoB"},"metadata":{},"sourceType":"module","externalDependencies":[]}
